@@ -8,6 +8,11 @@ Automated Gmail/YouTube account registration bot using **LDPlayer** (Android emu
 [![Youtube Demo](https://img.youtube.com/vi/veznNnNtZN4/maxresdefault.jpg)](https://www.youtube.com/watch?v=veznNnNtZN4)
 
 
+## Contact
+
+Telegram: [@johnmayer](https://t.me/johnmayer)
+
+
 ## Features
 
 - Fully automated signup flow (name, DOB, gender, username, password, phone verification, consent)
